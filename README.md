@@ -12,7 +12,6 @@ A backend-only Smart Library System built using **Node.js (Express)** and **Mong
 - [Testing with Postman](#testing-with-postman)
 - [Troubleshooting](#troubleshooting)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Project Overview
 The Smart Library System is a monolithic backend application that manages library operations, including user registration, book catalog management, book loans, and system statistics. It uses a single MongoDB database and exposes RESTful APIs for external clients. All modules are tightly coupled, residing in the same codebase and memory space, with communication via function calls.
@@ -199,6 +198,3 @@ The system exposes RESTful APIs under the `/api` prefix. Below is a summary of k
 - Add automated tests with Jest or Mocha.
 - Introduce rate limiting and logging for production.
 - Enhance error messages for better debugging.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
