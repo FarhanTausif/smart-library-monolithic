@@ -82,7 +82,7 @@ smart-library-monolithic/
 ### Steps
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone <https://github.com/FarhanTausif/smart-library-monolithic.git>
+   git clone https://github.com/FarhanTausif/smart-library-monolithic.git
    cd smart-library-monolithic
    ```
 
